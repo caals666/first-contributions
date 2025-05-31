@@ -1624,6 +1624,7 @@ Matthew Burgos
 - [Furanimus](https://github.com/Furanimus)
 - [Adarsh84](https://github.com/adarshM84)
 - [Kent0011](https://github.com/Kent0011)
+- [Strink](https://github.com/caals666)
 - [Rathin Subramaniam](https://github.com/rathinsubra)
 - [Ritesh Raj Dwivedi](https://github.com/riteshrajd)
 - [Luís Oliveira](https://github.com/LuisCarlosOliveira)
